@@ -1,10 +1,5 @@
 # OUTBACK: A Multimodal Synthetic Dataset for Rural Australian Off-road Robot Navigation
 
-
-
-This is the code base for:
-
-[OUTBACK: A Multimodal Synthetic Dataset for Rural Australian Off-road Robot Navigation].
 <br> Nipuna Wijayathunga, Dulitha Dabare, Alexander Rassau, Douglas Chai, Shamsul Islam
 
 # Introduction
