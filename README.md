@@ -14,6 +14,13 @@ NVIDIA Cater v1
 
 RGB monocular camera, LiDAR sensor, IMU
 
+# Dataset
+
+You can download the annotated dataset at the following links
+## RGB Images [Download](https://edithcowanuni-my.sharepoint.com/:f:/g/personal/lwijayat_our_ecu_edu_au/EvagmxpotyZDnwVRSSrZtYgBPA1sJ_oy_b0sznM7mc2cxg?e=jzvmKy)
+
+## Annotated Images [Download](https://edithcowanuni-my.sharepoint.com/:f:/g/personal/lwijayat_our_ecu_edu_au/EoGuNjvv7RFOn9HBkQ7s05kBomQcjA7gX3558gxofaaSlg?e=b9CdDG)
+
 # License
 
 This project is released under the [Apache 2.0 license](LICENSE).
