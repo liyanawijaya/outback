@@ -12,8 +12,8 @@ NVIDIA Cater v1
 
 # Sensor Payload
 
-RGB monocular camera 
-LiDAR sensor 
+RGB monocular camera
+LiDAR sensor
 IMU
 
 # License
