@@ -8,11 +8,11 @@ One of the most important aspects of robot scene understanding is semantic segme
 
 RGB Image | Semantic Annotation
 :-------------------------:|:-------------------------:
-![](rgb_23919.png)  |  ![](semantic_segmentation_23919.png)
+![](rgb_23919.png)         |  ![](semantic_segmentation_23919.png)
 
 # Robot Plaform
 
-NVIDIA Cater v1
+NVIDIA Carter v1
 
 # Sensor Payload
 
