@@ -22,7 +22,9 @@ One of the most important aspects of robot scene understanding is semantic segme
 >## Robot Model
 >NVIDIA Carter v1
 >## Sensor Payload
->RGB monocular camera <br> >LiDAR sensor<br> >IMU
+>RGB monocular camera <br>
+>LiDAR sensor<br>
+>IMU
 
 # Dataset
 
