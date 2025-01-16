@@ -10,7 +10,7 @@
 <br/>   <br/>
 <!--|-------------------------|-------------------------|-->
 <!--|![](rgb_23919.png)|![](semantic_segmentation_23919.png)|-->
-><p float="left">
+<p float="left">
 <img src="rgb_23919.png" width="45%" />
 <img src="semantic_segmentation_23919.png" width="45%" />
 </p>
@@ -32,13 +32,13 @@ You can download the annotated dataset at the following links
 
 >**RGB Images** [Download](https://edithcowanuni-my.sharepoint.com/:f:/g/personal/lwijayat_our_ecu_edu_au/EvagmxpotyZDnwVRSSrZtYgBPA1sJ_oy_b0sznM7mc2cxg?e=jzvmKy)
 <br>
->**RGB Image Semantic Annotations** [Download](https://edithcowanuni-my.sharepoint.com/:f:/g/personal/lwijayat_our_ecu_edu_au/EoGuNjvv7RFOn9HBkQ7s05kBomQcjA7gX3558gxofaaSlg?e=b9CdDG)
+**RGB Image Semantic Annotations** [Download](https://edithcowanuni-my.sharepoint.com/:f:/g/personal/lwijayat_our_ecu_edu_au/EoGuNjvv7RFOn9HBkQ7s05kBomQcjA7gX3558gxofaaSlg?e=b9CdDG)
 <br>
->**IMU Sensor Data** [Download](https://edithcowanuni-my.sharepoint.com/:f:/g/personal/lwijayat_our_ecu_edu_au/En8SlygSZ3pBhu6o8G8HW9YB5X9ZEPaURTYEIX5ZOpAszg?e=0T2T4a)
+**IMU Sensor Data** [Download](https://edithcowanuni-my.sharepoint.com/:f:/g/personal/lwijayat_our_ecu_edu_au/En8SlygSZ3pBhu6o8G8HW9YB5X9ZEPaURTYEIX5ZOpAszg?e=0T2T4a)
 <br>
->**LiDAR Depth Data** [Download](https://edithcowanuni-my.sharepoint.com/:f:/g/personal/lwijayat_our_ecu_edu_au/Etb842pOLoVOhAeQVswoLv8BOIArLFnWES-yX-alDPOFVQ?e=wuq6lW)
+**LiDAR Depth Data** [Download](https://edithcowanuni-my.sharepoint.com/:f:/g/personal/lwijayat_our_ecu_edu_au/Etb842pOLoVOhAeQVswoLv8BOIArLFnWES-yX-alDPOFVQ?e=wuq6lW)
 <br>
->**LiDAR Semantic Annotations** [Download](https://edithcowanuni-my.sharepoint.com/:f:/g/personal/lwijayat_our_ecu_edu_au/Et6_6MbN7htLvPgQC5gjY6IBXwA5OfuSKPdOHeiRdCkU0g?e=6npsHt)
+**LiDAR Semantic Annotations** [Download](https://edithcowanuni-my.sharepoint.com/:f:/g/personal/lwijayat_our_ecu_edu_au/Et6_6MbN7htLvPgQC5gjY6IBXwA5OfuSKPdOHeiRdCkU0g?e=6npsHt)
 
 # License
 
