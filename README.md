@@ -2,7 +2,7 @@
 
 <br> Liyana Wijayathunga <sup>1</sup>, Dulitha Dabare <sup>1</sup>, Alexander Rassau <sup>1</sup>, Douglas Chai <sup>1</sup>, Shamsul Islam <sup>2</sup><br>
 <sup>1</sup> School of Engineering, Edith Cowan University, Perth, Australia
-<sup>2</sup> School of Science, Edith Cowan University, Perth, Australia
+<br><sup>2</sup> School of Science, Edith Cowan University, Perth, Australia
 
 # Introduction
 
