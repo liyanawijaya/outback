@@ -16,13 +16,13 @@ One of the most important aspects of robot scene understanding is semantic segme
 </p>
 
 # Simulation Setup
-## Software
-Unreal Engine 5<br>
-NVIDIA Isaac Sim
-## Robot Model
-NVIDIA Carter v1
-## Sensor Payload
-RGB monocular camera <br> LiDAR sensor<br> IMU
+>## Software
+>Unreal Engine 5<br>
+>NVIDIA Isaac Sim
+>## Robot Model
+>NVIDIA Carter v1
+>## Sensor Payload
+>RGB monocular camera <br> >LiDAR sensor<br> >IMU
 
 # Dataset
 
