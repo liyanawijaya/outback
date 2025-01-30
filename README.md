@@ -11,8 +11,8 @@ One of the most important aspects of robot scene understanding is semantic segme
 <!--|-------------------------|-------------------------|-->
 <!--|![](rgb_23919.png)|![](semantic_segmentation_23919.png)|-->
 <p float="left">
-<img src="rgb_23919.png" width="45%" />
-<img src="semantic_segmentation_23919.png" width="45%" />
+<img src="rgb_02779.png" width="45%" />
+<img src="semantic_segmentation_02779.png" width="45%" />
 </p>
 
 # Simulation Setup
