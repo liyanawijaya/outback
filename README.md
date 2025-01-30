@@ -45,5 +45,5 @@ You can download the annotated dataset at the following links
 This project is released under the [Apache 2.0 license](LICENSE).
 
 # Acknowledgement
-
+The Isaac Sim synthetic environments were primarily developed using Unreal Engine assets provided by the open-source asset pack available at the given link (https://www.unrealengine.com/en-US/blog/rural-australia-environment-collection-now-available-for-free)
 The source code for experiments in OUTBACK is heavily based on [MMSegmentation](https://github.com/open-mmlab/mmsegmentation). 
