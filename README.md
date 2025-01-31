@@ -17,12 +17,12 @@
 </p>
 
 # Simulation Setup
-## Software
+### Software
 Unreal Engine 5<br>
 NVIDIA Isaac Sim
-## Robot Model
+### Robot Model
 NVIDIA Carter v1
-## Sensor Payload
+### Sensor Payload
 RGB monocular camera <br>
 LiDAR sensor<br>
 IMU
