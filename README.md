@@ -42,6 +42,8 @@ You can download the annotated dataset at the following links
 **LiDAR semantic annotations** [Download](https://edithcowanuni-my.sharepoint.com/:f:/g/personal/lwijayat_our_ecu_edu_au/Et6_6MbN7htLvPgQC5gjY6IBXwA5OfuSKPdOHeiRdCkU0g?e=6npsHt)
 <br>
 **OUTBACK environment USD data** [Download](https://edithcowanuni-my.sharepoint.com/:u:/g/personal/lwijayat_our_ecu_edu_au/EWtOwhPlshBJq1sXdouPS-oBmxviyiGpeeAz2ipZqkMVrw?e=EHIveW)
+<br>
+**Python scripts** [Download](https://edithcowanuni-my.sharepoint.com/:f:/g/personal/lwijayat_our_ecu_edu_au/ElrFMjfdbD9Bkmzbyfq_n5MBy1tSk_MaE53NRmOO8nXxFw?e=59ryDv)
 # License
 
 This project is released under the [Apache 2.0 license](LICENSE).
