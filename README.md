@@ -31,6 +31,14 @@ IMU
 # Dataset
 
 You can download the annotated dataset at the following links
+**Train data (only camera and LiDAR) ** [Download](https://edithcowanuni-my.sharepoint.com/:f:/g/personal/lwijayat_our_ecu_edu_au/EnKhoHw6blxGszHQ4-OKRrkBUw4MsOrWVQWA8nT9uis7ug?e=1Ad22e)
+<br>
+
+**Validation data (only camera and LiDAR)** [Download](https://edithcowanuni-my.sharepoint.com/:f:/g/personal/lwijayat_our_ecu_edu_au/EimjnDTXUohHj4MmwEKol7AB6ViIxx_c5Ww_gdN4mVDJew?e=7Kbrcr)
+<br>
+
+**Test data (only camera and LiDAR)** [Download](https://edithcowanuni-my.sharepoint.com/:f:/g/personal/lwijayat_our_ecu_edu_au/EimjnDTXUohHj4MmwEKol7AB6ViIxx_c5Ww_gdN4mVDJew?e=gEj1pq)
+<br>
 
 **RGB images** [Download](https://edithcowanuni-my.sharepoint.com/:f:/g/personal/lwijayat_our_ecu_edu_au/EvagmxpotyZDnwVRSSrZtYgBPA1sJ_oy_b0sznM7mc2cxg?e=rbqJJl)
 <br>
