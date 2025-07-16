@@ -35,6 +35,7 @@ You can download the annotated dataset at the following links
 
 **Version 2.0 - Second release of the extended OUTBACK dataset, which includes four environment scenarios containing camera and LiDAR sensor data**
 <br>
+The LiDAR depth and semantic annotation frames have been converted to the camera image plane and included in the dataset. 
 
 Train data [Download](https://edithcowanuni-my.sharepoint.com/:f:/g/personal/lwijayat_our_ecu_edu_au/EnKhoHw6blxGszHQ4-OKRrkBUw4MsOrWVQWA8nT9uis7ug?e=1Ad22e)
 <br>
