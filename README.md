@@ -32,27 +32,22 @@ IMU
 
 You can download the annotated dataset at the following links
 <br>
-**Train data (only camera and LiDAR)** [Download](https://edithcowanuni-my.sharepoint.com/:f:/g/personal/lwijayat_our_ecu_edu_au/EnKhoHw6blxGszHQ4-OKRrkBUw4MsOrWVQWA8nT9uis7ug?e=1Ad22e)
+**Version 2.0 - Second release of the extended OUTBACK dataset, which includes four environment scenarios containing camera and LiDAR sensor data**<br>
+Train data [Download](https://edithcowanuni-my.sharepoint.com/:f:/g/personal/lwijayat_our_ecu_edu_au/EnKhoHw6blxGszHQ4-OKRrkBUw4MsOrWVQWA8nT9uis7ug?e=1Ad22e)
 <br>
 
-**Validation data (only camera and LiDAR)** [Download](https://edithcowanuni-my.sharepoint.com/:f:/g/personal/lwijayat_our_ecu_edu_au/EimjnDTXUohHj4MmwEKol7AB6ViIxx_c5Ww_gdN4mVDJew?e=7Kbrcr)
+Validation data [Download](https://edithcowanuni-my.sharepoint.com/:f:/g/personal/lwijayat_our_ecu_edu_au/EimjnDTXUohHj4MmwEKol7AB6ViIxx_c5Ww_gdN4mVDJew?e=7Kbrcr)
 <br>
 
-**Test data (only camera and LiDAR)** [Download](https://edithcowanuni-my.sharepoint.com/:f:/g/personal/lwijayat_our_ecu_edu_au/EimjnDTXUohHj4MmwEKol7AB6ViIxx_c5Ww_gdN4mVDJew?e=gEj1pq)
+Test data [Download](https://edithcowanuni-my.sharepoint.com/:f:/g/personal/lwijayat_our_ecu_edu_au/EimjnDTXUohHj4MmwEKol7AB6ViIxx_c5Ww_gdN4mVDJew?e=gEj1pq)
 <br>
-
-**RGB images** [Download](https://edithcowanuni-my.sharepoint.com/:f:/g/personal/lwijayat_our_ecu_edu_au/EvagmxpotyZDnwVRSSrZtYgBPA1sJ_oy_b0sznM7mc2cxg?e=rbqJJl)
+**Version 1.0 - First release of the OUTBACK dataset, which includes two environment scenarios containing camera, LiDAR and IMU data**<br>
+Camera sensor data [Download](https://edithcowanuni-my.sharepoint.com/:f:/g/personal/lwijayat_our_ecu_edu_au/EpGCZ9ez_0FLkoXo9E3XLKQBxgoZdTud6qvgZXhzwgGRJA?e=S6mt5R)
 <br>
-**RGB image semantic annotations** [Download](https://edithcowanuni-my.sharepoint.com/:f:/g/personal/lwijayat_our_ecu_edu_au/EoGuNjvv7RFOn9HBkQ7s05kBomQcjA7gX3558gxofaaSlg?e=dPrseH)
+IMU sensor data [Download](https://edithcowanuni-my.sharepoint.com/:f:/g/personal/lwijayat_our_ecu_edu_au/En8SlygSZ3pBhu6o8G8HW9YB5X9ZEPaURTYEIX5ZOpAszg?e=q0vXf2)
 <br>
-**IMU sensor data** [Download](https://edithcowanuni-my.sharepoint.com/:f:/g/personal/lwijayat_our_ecu_edu_au/En8SlygSZ3pBhu6o8G8HW9YB5X9ZEPaURTYEIX5ZOpAszg?e=SeEPPe)
+LiDAR sensor data [Download](https://edithcowanuni-my.sharepoint.com/:f:/g/personal/lwijayat_our_ecu_edu_au/EqWPjsOLYIxAsANArmnyujEBuTmmRGz44-7PcX5w6ilSug?e=pZtqzJ)
 <br>
-**LiDAR depth data** [Download](https://edithcowanuni-my.sharepoint.com/:f:/g/personal/lwijayat_our_ecu_edu_au/Etb842pOLoVOhAeQVswoLv8BOIArLFnWES-yX-alDPOFVQ?e=XdacAy)
-<br>
-**LiDAR semantic annotations** [Download](https://edithcowanuni-my.sharepoint.com/:f:/g/personal/lwijayat_our_ecu_edu_au/Et6_6MbN7htLvPgQC5gjY6IBXwA5OfuSKPdOHeiRdCkU0g?e=XpMvde)
-<br>
-**Python scripts** [Download](https://edithcowanuni-my.sharepoint.com/:f:/g/personal/lwijayat_our_ecu_edu_au/ElrFMjfdbD9Bkmzbyfq_n5MBy1tSk_MaE53NRmOO8nXxFw?e=59ryDv)
-# License
 
 This project is released under the [Apache 2.0 license](LICENSE).
 
