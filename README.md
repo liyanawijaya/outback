@@ -40,7 +40,7 @@ The LiDAR depth and semantic annotation frames have been converted to the camera
 Train data [Download](https://edithcowanuni-my.sharepoint.com/:f:/g/personal/lwijayat_our_ecu_edu_au/EnKhoHw6blxGszHQ4-OKRrkBUw4MsOrWVQWA8nT9uis7ug?e=1Ad22e)
 <br>
 
-Validation data [Download](https://edithcowanuni-my.sharepoint.com/:f:/g/personal/lwijayat_our_ecu_edu_au/EimjnDTXUohHj4MmwEKol7AB6ViIxx_c5Ww_gdN4mVDJew?e=7Kbrcr)
+Validation data [Download](https://edithcowanuni-my.sharepoint.com/:f:/g/personal/lwijayat_our_ecu_edu_au/ElKBPJ85ikNKqIxiA0unlTcBipLTaFyPT9X6jK4mqfZypg?e=JIBBih)
 <br>
 
 Test data [Download](https://edithcowanuni-my.sharepoint.com/:f:/g/personal/lwijayat_our_ecu_edu_au/EimjnDTXUohHj4MmwEKol7AB6ViIxx_c5Ww_gdN4mVDJew?e=gEj1pq)
