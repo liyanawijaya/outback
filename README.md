@@ -45,6 +45,10 @@ Validation data [Download](https://edithcowanuni-my.sharepoint.com/:f:/g/persona
 
 Test data [Download](https://edithcowanuni-my.sharepoint.com/:f:/g/personal/lwijayat_our_ecu_edu_au/EimjnDTXUohHj4MmwEKol7AB6ViIxx_c5Ww_gdN4mVDJew?e=gEj1pq)
 <br>
+
+Dataset splitting information [Download](https://edithcowanuni-my.sharepoint.com/:f:/g/personal/lwijayat_our_ecu_edu_au/EopRvG3Cud1EkptiJVFzhAwBcgGRhQ3PJ0ODA8GCuBeCjw?e=TzBCKs)
+<br>
+
 <br>
 **Version 1.0 - First release of the OUTBACK dataset, which includes two environment scenarios containing camera, LiDAR and IMU data**
 <br>
@@ -56,9 +60,6 @@ IMU sensor data [Download](https://edithcowanuni-my.sharepoint.com/:f:/g/persona
 <br>
 
 LiDAR sensor data [Download](https://edithcowanuni-my.sharepoint.com/:f:/g/personal/lwijayat_our_ecu_edu_au/EqWPjsOLYIxAsANArmnyujEBuTmmRGz44-7PcX5w6ilSug?e=pZtqzJ)
-<br>
-
-Dataset splitting information [Download](https://edithcowanuni-my.sharepoint.com/:f:/g/personal/lwijayat_our_ecu_edu_au/EopRvG3Cud1EkptiJVFzhAwBcgGRhQ3PJ0ODA8GCuBeCjw?e=TzBCKs)
 <br>
 
 
