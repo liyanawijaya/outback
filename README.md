@@ -8,7 +8,7 @@
 
 One of the most important aspects of robot scene understanding is semantic segmentation of external environments. Urban environment semantic segmentation has been extensively investigated by researchers and many real-world and synthetic datasets have been utilised to develop highly accurate segmentation results. However, the number of off-road datasets available for robot navigation research remains limited.  To address this, we introduce a novel framework to generate varied photorealistic synthetic off-road datasets capable of supporting multiple sensor modalities. 
 <br>
-To evaluate this approach, a synthetic multimodal dataset for off-road ground robot navigation in typical Western Australian outback conditions has been created. The robot simulations for synthetic dataset generation were conducted using the NVIDIA Isaac Sim robotics simulator platform and the camera, LiDAR, and IMU sensor data was collected using four synthetic off-road environment scenarios. After revising some of the semantic classes introduced in our DICTA 2024 conference [paper](https://ieeexplore.ieee.org/abstract/document/10869581), we make available our OUTBACK dataset, which consists of a total of 7817 image frames with respective annotations covering 16 semantic classes. Experiments on the dataset were performed using three state-of-the-art image segmentation models. These experiments examine the effectiveness of urban semantic segmentation deep learning models on rural off-road driving scenarios and additionally evaluate the Sim2Real transfer of an off-road semantic segmentation model pretrained on our synthetic dataset. The following figures from the OUTBACK dataset represent an RGB monocular image (left) and the corresponding semantic annotation (right), respectively.
+To evaluate this approach, a synthetic multimodal dataset for off-road ground robot navigation in typical Western Australian outback conditions has been created. The robot simulations for synthetic dataset generation were conducted using the NVIDIA Isaac Sim robotics simulator platform and the camera, LiDAR, and IMU sensor data was collected using four synthetic off-road environment scenarios. After revising some of the semantic classes introduced in our DICTA 2024 conference [paper](https://ieeexplore.ieee.org/abstract/document/10869581), we make available our OUTBACK off-road dataset, which consists of a total of 7817 image frames with respective annotations covering 16 semantic classes. Experiments on the dataset were performed using three state-of-the-art image segmentation models. These experiments examine the effectiveness of urban semantic segmentation deep learning models on rural off-road driving scenarios and additionally evaluate the Sim2Real transfer of an off-road semantic segmentation model pretrained on our synthetic dataset. The following figures from the OUTBACK dataset represent an RGB monocular image (left) and the corresponding semantic annotation (right), respectively.
 <br/>   <br/>
 <!--|-------------------------|-------------------------|-->
 <!--|![](rgb_23919.png)|![](semantic_segmentation_23919.png)|-->
@@ -56,6 +56,9 @@ IMU sensor data [Download](https://edithcowanuni-my.sharepoint.com/:f:/g/persona
 <br>
 
 LiDAR sensor data [Download](https://edithcowanuni-my.sharepoint.com/:f:/g/personal/lwijayat_our_ecu_edu_au/EqWPjsOLYIxAsANArmnyujEBuTmmRGz44-7PcX5w6ilSug?e=pZtqzJ)
+<br>
+
+Dataset splitting information [Download](https://edithcowanuni-my.sharepoint.com/:f:/g/personal/lwijayat_our_ecu_edu_au/EopRvG3Cud1EkptiJVFzhAwBcgGRhQ3PJ0ODA8GCuBeCjw?e=TzBCKs)
 <br>
 
 This project is released under the [Apache 2.0 license](LICENSE).
