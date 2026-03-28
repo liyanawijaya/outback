@@ -61,7 +61,7 @@ Camera sensor data [Download](https://edithcowanuni-my.sharepoint.com/:f:/g/pers
 IMU sensor data [Download](https://edithcowanuni-my.sharepoint.com/:f:/g/personal/lwijayat_our_ecu_edu_au/IgB_EpcoEmd6QYbuqPBvB1vWAeV_WRD2lEU2BCF-WTqQLM4?e=LLHptc)
 <br>
 
-LiDAR sensor data [Qownload](https://edithcowanuni-my.sharepoint.com/:f:/g/personal/lwijayat_our_ecu_edu_au/IgClj47Di2CMQLADQK5p8roxAbk5pkRs-OPuz3F-cOopUro?e=kZacMo)
+LiDAR sensor data [Download](https://edithcowanuni-my.sharepoint.com/:f:/g/personal/lwijayat_our_ecu_edu_au/IgClj47Di2CMQLADQK5p8roxAbk5pkRs-OPuz3F-cOopUro?e=kZacMo)
 <br>
 
 
