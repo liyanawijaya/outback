@@ -55,14 +55,6 @@ Test data [Download](https://edithcowanuni-my.sharepoint.com/:f:/g/personal/lwij
 **Version 1.0 - First release of the OUTBACK dataset, which includes two environment scenarios containing camera, LiDAR and IMU data**
 <br>
 
-Camera sensor data [Download](https://edithcowanuni-my.sharepoint.com/:f:/g/personal/lwijayat_our_ecu_edu_au/IgCRgmfXs_9BS5KF6PRN1yykAcYKGXU7neqr4GV4c8IBkSQ?e=mGIEPb)
-<br>
-
-IMU sensor data [Download](https://edithcowanuni-my.sharepoint.com/:f:/g/personal/lwijayat_our_ecu_edu_au/IgB_EpcoEmd6QYbuqPBvB1vWAeV_WRD2lEU2BCF-WTqQLM4?e=LLHptc)
-<br>
-
-LiDAR sensor data [Download](https://edithcowanuni-my.sharepoint.com/:f:/g/personal/lwijayat_our_ecu_edu_au/IgClj47Di2CMQLADQK5p8roxAbk5pkRs-OPuz3F-cOopUro?e=kZacMo)
-<br>
 
 
 # Acknowledgement
