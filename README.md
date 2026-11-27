@@ -46,7 +46,7 @@ Validation data [Download](https://edithcowanuni-my.sharepoint.com/:f:/g/persona
 Test data [Download](https://edithcowanuni-my.sharepoint.com/:f:/g/personal/lwijayat_our_ecu_edu_au/IgApo5w011KIR4-DJsBCqJewAelYiMcf3OVsP4HTeJlQyXs?e=Cmtakt)
 <br>
 
-[Dataset splitting information](https://edithcowanuni-my.sharepoint.com/:f:/g/personal/lwijayat_our_ecu_edu_au/IgCKUbxtwrndRJKbYiVRc4QMAXIBkYUNzydDgwPBgrgXgo8?e=pILUWj)
+[Dataset splitting information and class ID notation](https://edithcowanuni-my.sharepoint.com/:f:/g/personal/lwijayat_our_ecu_edu_au/IgCKUbxtwrndRJKbYiVRc4QMAXIBkYUNzydDgwPBgrgXgo8?e=pILUWj)
 <br>
 <br>
 
